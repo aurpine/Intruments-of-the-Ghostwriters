@@ -1,0 +1,8 @@
+-1 - none (transparent)
+0 - rock
+1 - grass
+2 - dirt
+3 - brick
+4 - cloud
+5 - Metal
+6 - Spike

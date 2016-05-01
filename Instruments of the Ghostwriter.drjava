@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20140826-r5761">
+  <project autorefresh="true" build="bin/" main="game.InstrumentsOfTheGhostwriters" manifest="" root="src/" work="">
+    <createjar file="InstrumentsOfTheGhostWriters.jar" flags="5"/>
+    <source>
+      <file active="true" name="game/InstrumentsOfTheGhostwriters.java" package="game" timestamp="09-Jun-2015 07:33:28">
+        <select from="3369" to="3369"/>
+        <scroll column="1537" row="108"/>
+      </file>
+      <file name="game/GameWindow.java" package="game" timestamp="09-Jun-2015 07:33:28">
+        <select from="3369" to="3369"/>
+        <scroll column="1537" row="108"/>
+      </file>
+      <file name="game/blocks/Obstacle.java" package="blocks" timestamp="09-Jun-2015 05:53:28">
+        <select from="3369" to="3369"/>
+        <scroll column="1537" row="108"/>
+      </file>
+      <file name="game/PauseMenu.java" package="game" timestamp="09-Jun-2015 05:44:54">
+        <select from="3369" to="3369"/>
+        <scroll column="1537" row="108"/>
+      </file>
+      <file name="game/Level.java" package="game" timestamp="09-Jun-2015 05:47:20">
+        <select from="3369" to="3369"/>
+        <scroll column="1537" row="108"/>
+      </file>
+      <file name="game/Paths.java" package="game" timestamp="09-Jun-2015 05:50:08">
+        <select from="3369" to="3369"/>
+        <scroll column="1537" row="108"/>
+      </file>
+      <file name="game/blocks/Text.java" package="blocks" timestamp="09-Jun-2015 05:50:48">
+        <select from="3369" to="3369"/>
+        <scroll column="1537" row="108"/>
+      </file>
+      <file name="game/blocks/Block.java" package="blocks" timestamp="09-Jun-2015 05:57:10">
+        <select from="3369" to="3369"/>
+        <scroll column="1537" row="108"/>
+      </file>
+      <file name="game/blocks/Checkpoint.java" package="blocks" timestamp="09-Jun-2015 05:57:18">
+        <select from="3369" to="3369"/>
+        <scroll column="1537" row="108"/>
+      </file>
+      <file name="game/Player.java" package="game" timestamp="09-Jun-2015 05:57:30">
+        <select from="3369" to="3369"/>
+        <scroll column="1537" row="108"/>
+      </file>
+      <file name="game/Printer.java" package="game" timestamp="09-Jun-2015 06:03:32">
+        <select from="3369" to="3369"/>
+        <scroll column="1537" row="108"/>
+      </file>
+      <file name="game/CustomComponent.java" package="game" timestamp="09-Jun-2015 06:03:38">
+        <select from="3369" to="3369"/>
+        <scroll column="1537" row="108"/>
+      </file>
+      <file name="game/blocks/Letter.java" package="blocks" timestamp="09-Jun-2015 06:04:24">
+        <select from="3369" to="3369"/>
+        <scroll column="1537" row="108"/>
+      </file>
+      <file name="game/blocks/Terrain.java" package="blocks" timestamp="09-Jun-2015 06:04:34">
+        <select from="3369" to="3369"/>
+        <scroll column="1537" row="108"/>
+      </file>
+      <file name="game/CustomButton.java" package="game" timestamp="09-Jun-2015 06:04:42">
+        <select from="3369" to="3369"/>
+        <scroll column="1537" row="108"/>
+      </file>
+      <file name="game/Highscores.java" package="game" timestamp="09-Jun-2015 06:06:02">
+        <select from="3369" to="3369"/>
+        <scroll column="1537" row="108"/>
+      </file>
+      <file name="game/Timer.java" package="game" timestamp="09-Jun-2015 06:06:52">
+        <select from="3369" to="3369"/>
+        <scroll column="1537" row="108"/>
+      </file>
+      <file name="game/Puzzle.java" package="game" timestamp="09-Jun-2015 06:40:52">
+        <select from="3369" to="3369"/>
+        <scroll column="1537" row="108"/>
+      </file>
+      <file name="game/Game.java" package="game" timestamp="09-Jun-2015 06:40:52">
+        <select from="3369" to="3369"/>
+        <scroll column="1537" row="108"/>
+      </file>
+      <file name="game/MainMenu.java" package="game" timestamp="09-Jun-2015 07:08:04">
+        <select from="3369" to="3369"/>
+        <scroll column="1537" row="108"/>
+      </file>
+      <file name="game/SplashScreen.java" package="" timestamp="09-Jun-2015 07:15:50">
+        <select from="3369" to="3369"/>
+        <scroll column="1537" row="108"/>
+      </file>
+      <file name="game/InstrumentsOfTheGhostwriters (lego lover2's conflicted copy 2015-06-10).java" package="game" timestamp="09-Jun-2015 11:25:46">
+        <select from="3369" to="3369"/>
+        <scroll column="1537" row="108"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>

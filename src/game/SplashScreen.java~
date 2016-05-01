@@ -1,0 +1,15 @@
+public class SplashScreen extends JFrame {
+  private JLabel currFrame;
+  public SplashScreen (){
+    super();
+    setDefaultCloseOperation(EXIT_ON_CLOSE);
+    setUndecorated(true);
+    animate();
+    repaint();
+    revalidate();
+  }
+  private void animate(){
+    for (int i = 0; i<60;i++){
+      currFrame = JLabel (new ImageIcon (ImageIO.read(new File("lib\\splash\\splash00"+i+".png"))));
+    }
+  }

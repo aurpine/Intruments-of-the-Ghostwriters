@@ -1,0 +1,6 @@
+0 - Air
+1 - Terrain
+2 - Fade
+3 - Moving
+4 - Obstacle
+5 - 
