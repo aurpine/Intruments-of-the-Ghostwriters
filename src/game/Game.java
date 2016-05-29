@@ -118,24 +118,23 @@ public class Game extends Canvas implements Runnable, KeyListener {
           ImageIO.read(new File(Paths.TEXTURES + "dirt2.png")),
           ImageIO.read(new File(Paths.TEXTURES + "dirt3.png")),
           ImageIO.read(new File(Paths.TEXTURES + "dirt4.png"))},
-            new Image[] {   ImageIO.read(new File(Paths.TEXTURES + "stone1.png")),    // 1
-              ImageIO.read(new File(Paths.TEXTURES + "stone2.png"))},
-                new Image[] {   ImageIO.read(new File(Paths.TEXTURES + "spikes.png"))},   // 2
-                  new Image[] {   ImageIO.read(new File(Paths.TEXTURES + "ice.png"))},    // 3
-                    new Image[] {   ImageIO.read(new File(Paths.TEXTURES + "water.png"))},  // 4
-                      new Image[] {   ImageIO.read(new File(Paths.TEXTURES + "gold_block.png"))},   // 5
-                        new Image[] {   ImageIO.read(new File(Paths.TEXTURES + "grass1.png")),    // 6
-                          ImageIO.read(new File(Paths.TEXTURES + "grass2.png")),
-                          ImageIO.read(new File(Paths.TEXTURES + "grass3.png")),
-                          ImageIO.read(new File(Paths.TEXTURES + "grass4.png"))},
-                            new Image[] { ImageIO.read(new File(Paths.TEXTURES + "coal_ore.png")), // 7
-                              ImageIO.read(new File(Paths.TEXTURES + "iron_ore.png")),
-                              ImageIO.read(new File(Paths.TEXTURES + "diamond_ore.png")),
-                              ImageIO.read(new File(Paths.TEXTURES + "gold_ore.png"))},
-                                new Image[] {   ImageIO.read(new File(Paths.TEXTURES + "letter.png"))}, // 8
-                                  new Image[] {   ImageIO.read(new File(Paths.TEXTURES + "lava.png"))}, // 9
-                                    new Image[] {   ImageIO.read(new File(Paths.TEXTURES + "planks.png"))} // 10
-                                    // 11
+        new Image[] {   ImageIO.read(new File(Paths.TEXTURES + "stone1.png")),    // 1
+          ImageIO.read(new File(Paths.TEXTURES + "stone2.png"))},
+        new Image[] {   ImageIO.read(new File(Paths.TEXTURES + "spikes.png"))},   // 2
+        new Image[] {   ImageIO.read(new File(Paths.TEXTURES + "ice.png"))},    // 3
+        new Image[] {   ImageIO.read(new File(Paths.TEXTURES + "water.png"))},  // 4
+        new Image[] {   ImageIO.read(new File(Paths.TEXTURES + "gold_block.png"))},   // 5
+        new Image[] {   ImageIO.read(new File(Paths.TEXTURES + "grass1.png")),    // 6
+          ImageIO.read(new File(Paths.TEXTURES + "grass2.png")),
+          ImageIO.read(new File(Paths.TEXTURES + "grass3.png")),
+          ImageIO.read(new File(Paths.TEXTURES + "grass4.png"))},
+        new Image[] { ImageIO.read(new File(Paths.TEXTURES + "coal_ore.png")), // 7
+          ImageIO.read(new File(Paths.TEXTURES + "iron_ore.png")),
+          ImageIO.read(new File(Paths.TEXTURES + "diamond_ore.png")),
+          ImageIO.read(new File(Paths.TEXTURES + "gold_ore.png"))},
+        new Image[] {   ImageIO.read(new File(Paths.TEXTURES + "letter.png"))}, // 8
+        new Image[] {   ImageIO.read(new File(Paths.TEXTURES + "lava.png"))}, // 9
+        new Image[] {   ImageIO.read(new File(Paths.TEXTURES + "planks.png"))} // 10
       };
       
       text = new Image[26];
